@@ -7,6 +7,7 @@ public class Generics {
             Integer[] numbers = {23, 4, 5, 2, 13, 456, 4};
             printer.print(people);
             printer.print(numbers);
+            System.out.println();
         }
     }
 
