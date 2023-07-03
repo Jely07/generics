@@ -8,6 +8,7 @@ public class Generics {
             printer.print(people);
             printer.print(numbers);
             System.out.println();
+            System.out.println ("is This impossible?");
         }
     }
 
